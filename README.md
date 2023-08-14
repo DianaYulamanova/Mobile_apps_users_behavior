@@ -1,6 +1,6 @@
 Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме профессии "Аналитик данных".
 # 1. Mobile_apps_users_behavior. Мобильные приложения — Выделение групп пользователей на основе поведения.
-
+https://github.com/DianaYulamanova/Yandex_practicum/tree/ab7efe2a03046793b56ad247c1f2a237e79c3dac/Mobile_apps_users_behavior
 ## Описание
 
 ## Используемые библиотеки
