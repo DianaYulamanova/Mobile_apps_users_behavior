@@ -11,7 +11,7 @@ https://github.com/DianaYulamanova/Yandex_practicum/tree/ab7efe2a03046793b56ad24
 - scipy
   
 # 2. Public_catering_in_Moscow. Анализ рынка заведений общественного питания Москвы
-
+https://github.com/DianaYulamanova/Yandex_practicum/tree/598c269a378e5d29689183fb36c55d7d446c1a04/Public_catering_in_Moscow
 ## Описание
 
 ## Используемые библиотеки
