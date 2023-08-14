@@ -24,7 +24,7 @@
 - json
 
 # 3. AB-test_mobile_app_campaign. Анализ поведения новых пользователей в приложении и оценка результатов А/В-тестирования.
-
+https://github.com/DianaYulamanova/Yandex_practicum/tree/cf776e80a8b7d41431f2ec66b98d0546cefcbe08/AB-test_mobile_app_campaign
 ## Описание
   
 ## Используемые библиотеки
